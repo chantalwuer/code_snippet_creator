@@ -53,7 +53,7 @@ def print_snippet(title, prefix, body, description):
 
     print(f'  ],')
     print(f'  "description": "{description}"')
-    print(f'}}')
+    print(f'}},')
 
     print('\n⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ')
     return ""
